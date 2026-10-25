@@ -4,12 +4,8 @@ Recurso gratuito en español para agencias inmobiliarias en España. La página 
 
 ## Publicar gratis con GitHub Pages
 
-1. Crea una cuenta en GitHub si aún no tienes una.
-2. Crea un repositorio público, por ejemplo `checklist-crm-inmobiliario`.
-3. Sube `index.html` y este `README.md` a la raíz del repositorio.
-4. Abre **Settings → Pages**. En **Build and deployment**, elige **Deploy from a branch**, selecciona la rama principal (normalmente `main`) y la carpeta `/(root)`, y guarda.
-5. GitHub mostrará la dirección pública del sitio en esa misma sección. La primera publicación puede tardar unos minutos.
+El repositorio público ya está creado con la checklist. Para activar la página: abre **Settings → Pages**. En **Build and deployment**, selecciona **Deploy from a branch**, elige la rama `main` y la carpeta `/(root)`, y guarda. GitHub mostrará ahí la dirección pública cuando termine la publicación.
 
-La página contiene una referencia contextual al sitio de InmoNexo y declara que InmoNexo creó el recurso. El contenido se ofrece bajo licencia CC BY 4.0. Comprueba que los datos de producto y la marca siguen correctos antes de publicarlo.
+La página contiene una referencia contextual a InmoNexo y declara que InmoNexo creó el recurso. El contenido se ofrece bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
 
 Documentación oficial: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
