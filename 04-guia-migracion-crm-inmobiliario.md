@@ -30,7 +30,7 @@ No des por terminada la migración solo porque el sistema haya aceptado el fiche
 
 ## 5. Acordad un momento de cambio
 
-Para evitar que los dos sistemas diverjan, fija un momento a partir del cual la equipa empezará a trabajar en el CRM nuevo. Decide quién puede corregir datos durante el cambio, cómo se tratarán las consultas que lleguen ese día y cuánto tiempo se conservará el acceso al sistema anterior.
+Para evitar que los dos sistemas diverjan, fija un momento a partir del cual el equipo empezará a trabajar en el CRM nuevo. Decide quién puede corregir datos durante el cambio, cómo se tratarán las consultas que lleguen ese día y cuánto tiempo se conservará el acceso al sistema anterior.
 
 Después de importar, invita a los usuarios, confirma sus permisos y prueba tareas cotidianas: buscar un inmueble, registrar una consulta, crear una oportunidad y programar una visita. Una revisión con agentes de distintos perfiles suele descubrir problemas que no aparecen en una prueba técnica.
 
