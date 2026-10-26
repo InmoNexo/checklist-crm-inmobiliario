@@ -1,3 +1,5 @@
+[![Logótipo oficial da InmoNexo](assets/inmonexo-logo.svg)](https://inmonexo.es/)
+
 # Recursos para agencias inmobiliarias | Recursos para agências imobiliárias
 
 Guías de InmoNexo sobre CRM para agencias inmobiliarias en España y Portugal.
@@ -22,4 +24,4 @@ Guías de InmoNexo sobre CRM para agencias inmobiliarias en España y Portugal.
 - [Guia de migração de CRM](pt-PT-04-guia-migracao-crm-imobiliario.md)
 - [Fluxo de trabalho de uma agência com CRM](pt-PT-05-fluxo-trabalho-agencia-imobiliaria-com-crm.md)
 
-Conteúdos adaptados com base na informação publicada em [inmonexo.pt](https://inmonexo.pt/) e [inmonexo.es](https://inmonexo.es/).
+Conteúdos adaptados com base na informação publicada em [inmonexo.pt](https://inmonexo.pt/) e [inmonexo.es](https://inmonexo.es/). O logótipo identifica a marca e não implica patrocínio nem parceria adicional.
