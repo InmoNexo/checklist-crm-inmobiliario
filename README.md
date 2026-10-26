@@ -25,3 +25,8 @@ Guías de InmoNexo sobre CRM para agencias inmobiliarias en España y Portugal.
 - [Fluxo de trabalho de uma agência com CRM](pt-PT-05-fluxo-trabalho-agencia-imobiliaria-com-crm.md)
 
 Conteúdos adaptados com base na informação publicada em [inmonexo.pt](https://inmonexo.pt/) e [inmonexo.es](https://inmonexo.es/). O logótipo identifica a marca e não implica patrocínio nem parceria adicional.
+
+
+## Propuesta editorial para Inmoblog
+
+- [Digitalizar una pequeña agencia inmobiliaria: plan práctico de 30 días](06-digitalizacion-pequenas-agencias-inmobiliarias.md)
